@@ -1,0 +1,9 @@
+{
+  "TMX TU Template": {
+    "prefix": "tu",
+    "body": [
+      "<tu tuid=\"\">\n\t<tuv xml:lang=\"es\">\n\t\t<seg>$1</seg>\n\t</tuv>\n\t<tuv xml:lang=\"pt\">\n\t\t<seg>$2</seg>\n\t</tuv>\n\t<tuv xml:lang=\"fr\">\n\t\t<seg>$3</seg>\n\t</tuv>\n\t<tuv xml:lang=\"it\">\n\t\t<seg>$4</seg>\n\t</tuv>\n\t<tuv xml:lang=\"en\">\n\t\t<seg>$5</seg>\n\t</tuv>\n\t<tuv xml:lang=\"de\">\n\t\t<seg>$6</seg>\n\t</tuv>\n</tu>"
+    ],
+    "description": "TMX TU Template"
+  }
+}
